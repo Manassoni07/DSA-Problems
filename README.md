@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Manassoni07/DSA-Problems/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/Manassoni07/DSA-Problems/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Manassoni07/DSA-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Manassoni07/DSA-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manassoni07/DSA-Problems/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Manassoni07/DSA-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Manassoni07/DSA-Problems/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/Manassoni07/DSA-Problems/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Manassoni07/DSA-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
 | ------- |
