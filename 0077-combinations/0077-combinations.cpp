@@ -6,7 +6,7 @@ class Solution {
             return;
         }
 
-        for(int j = i; j <= n; j++){
+        for(int j = i; j <= n - (k - curr.size()) + 1; j++){ //optmization for  Prune branches
             curr.push_back(j);
             solve(n,k,result,curr,j+1);
             curr.pop_back();
