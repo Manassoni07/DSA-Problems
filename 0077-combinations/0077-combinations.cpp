@@ -3,6 +3,7 @@ class Solution {
         // base case 
         if(curr.size() == k){
             result.push_back(curr);
+            return;
         }
 
         for(int j = i; j <= n; j++){
