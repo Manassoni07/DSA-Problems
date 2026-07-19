@@ -1,22 +1,4 @@
 class Solution {
-    bool isValid(vector<string>& board, int row, int col) {
-        // up
-        for (int i = row - 1; i >= 0; i--) {
-            if (board[i][col] == 'Q')
-                return false;
-        }
-        // left up
-        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
-            if(board[i][j] == 'Q')
-                return false;
-        }
-        // right up
-        for (int i = row - 1, j = col + 1; i >= 0 && j >= 0; i--, j++) {
-            if(board[i][j] == 'Q')
-                return false;
-        }
-        return true;
-    }
 
     void solve(vector<string>& board, int row) {
         if (row >= N) {
@@ -24,21 +6,48 @@ class Solution {
             return;
         }
 
-        for (int col = 0; col < N; col++) {
-            if (isValid(board, row, col)) {
-                board[row][col] = 'Q';
-                solve(board, row + 1);
-                board[row][col] = '.';
+        // for (int col = 0; col < N; col++) {
+        //     if (isValid(board, row, col)) {
+        //         board[row][col] = 'Q';
+        //         solve(board, row + 1);
+        //         board[row][col] = '.';
+        //     }
+        // }
+        for (int cols = 0; cols < N; cols++) {
+            int digconst = row + cols;
+            int antidigconst = row - cols;
+
+            if (col.find(cols) != col.end() ||
+                dig.find(digconst) != dig.end(digconst) ||
+                antiDig.find(antidigconst) != antiDig.end(antidigconst)) {
+                    continue;
             }
+
+            col.insert(cols);
+            dig.insert(digconst);
+            antiDig.insert(antidigconst);
+
+            board[row][cols] = 'Q';
+            solve(board,row+1);
+
+            col.erase(cols);
+            dig.erase(digconst);
+            antiDig.erase(antidigconst);
+
+            board[row][cols] = '.';
+
         }
     }
 
 public:
     vector<vector<string>> ans;
     int N;
+    unordered_set<int> col;
+    unordered_set<int> dig;
+    unordered_set<int> antiDig;
 
     vector<vector<string>> solveNQueens(int n) {
-        if(n == 0)
+        if (n == 0)
             return {};
         vector<string> board(n, string(n, '.'));
         N = n;
