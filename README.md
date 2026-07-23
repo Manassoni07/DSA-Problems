@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manassoni07/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [1260-shift-2d-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Manassoni07/DSA-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manassoni07/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Manassoni07/DSA-Problems/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Manassoni07/DSA-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Recursion
 |  |
