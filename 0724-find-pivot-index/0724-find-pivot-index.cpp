@@ -1,4 +1,4 @@
-// tc O(n) but here SC : O(N) we can do more better
+// tc O(n) but here SC : O(1) 
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
