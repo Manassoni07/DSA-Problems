@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manassoni07/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Manassoni07/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0525-contiguous-array](https://github.com/Manassoni07/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Manassoni07/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Manassoni07/DSA-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Manassoni07/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0525-contiguous-array](https://github.com/Manassoni07/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Manassoni07/DSA-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Manassoni07/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Manassoni07/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
