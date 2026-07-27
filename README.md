@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Manassoni07/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Manassoni07/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/Manassoni07/DSA-Problems/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Manassoni07/DSA-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/1260-shift-2d-grid) |
@@ -207,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Manassoni07/DSA-Problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Manassoni07/DSA-Problems/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
