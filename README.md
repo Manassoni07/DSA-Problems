@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manassoni07/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/Manassoni07/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/Manassoni07/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/Manassoni07/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Manassoni07/DSA-Problems/tree/master/0724-find-pivot-index) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manassoni07/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Manassoni07/DSA-Problems/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Manassoni07/DSA-Problems/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Manassoni07/DSA-Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Manassoni07/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/Manassoni07/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manassoni07/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Manassoni07/DSA-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1480-running-sum-of-1d-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Manassoni07/DSA-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
