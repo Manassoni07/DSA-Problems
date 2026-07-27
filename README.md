@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Manassoni07/DSA-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manassoni07/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Manassoni07/DSA-Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Manassoni07/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manassoni07/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
