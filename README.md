@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Manassoni07/DSA-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0344-reverse-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manassoni07/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Manassoni07/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manassoni07/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Manassoni07/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Manassoni07/DSA-Problems/tree/master/0860-lemonade-change) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
