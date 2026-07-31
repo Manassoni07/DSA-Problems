@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Manassoni07/DSA-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Manassoni07/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/Manassoni07/DSA-Problems/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/Manassoni07/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Manassoni07/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/Manassoni07/DSA-Problems/tree/master/0525-contiguous-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Manassoni07/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Manassoni07/DSA-Problems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Manassoni07/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Manassoni07/DSA-Problems/tree/master/0860-lemonade-change) |
