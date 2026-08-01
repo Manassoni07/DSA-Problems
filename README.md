@@ -276,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Manassoni07/DSA-Problems/tree/master/0486-predict-the-winner) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Manassoni07/DSA-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
