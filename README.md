@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
@@ -218,12 +219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
