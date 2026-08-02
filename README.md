@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manassoni07/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manassoni07/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Manassoni07/DSA-Problems/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3945-digit-frequency-score](https://github.com/Manassoni07/DSA-Problems/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Manassoni07/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0877-stone-game) |
+| [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Manassoni07/DSA-Problems/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
 |  |
