@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/Manassoni07/DSA-Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Manassoni07/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Manassoni07/DSA-Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Manassoni07/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -297,5 +299,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Manassoni07/DSA-Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Manassoni07/DSA-Problems/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Manassoni07/DSA-Problems/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Manassoni07/DSA-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
