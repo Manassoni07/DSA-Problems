@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Manassoni07/DSA-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/Manassoni07/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Manassoni07/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Manassoni07/DSA-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Manassoni07/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Manassoni07/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Manassoni07/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Manassoni07/DSA-Problems/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Manassoni07/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Manassoni07/DSA-Problems/tree/master/1406-stone-game-iii) |
 ## Database
 |  |
 | ------- |
