@@ -5,14 +5,12 @@ class Solution {
         // Kahn's Algo
 
         queue<int> q;
-        int count = 0;
 
         // now we fill 0 degree ele
 
         for (int i = 0; i < n; i++) {
             if (indegree[i] == 0) {
                 q.push(i);
-                count++;
             }
         }
 
@@ -28,14 +26,14 @@ class Solution {
                 indegree[v]--;
                 if (indegree[v] == 0) {
                     q.push(v);
-                    count++;
+
                 }
             }
         }
 
         // now cycle detection
 
-        if (count == n)
+        if (ans.size() == n)
             return ans;
 
         return {};
