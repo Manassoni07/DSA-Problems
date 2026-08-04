@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Manassoni07/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0785-is-graph-bipartite](https://github.com/Manassoni07/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,11 +286,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Manassoni07/DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Manassoni07/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Manassoni07/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Manassoni07/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Manassoni07/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Game Theory
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Manassoni07/DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Manassoni07/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Manassoni07/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -316,4 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Manassoni07/DSA-Problems/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Manassoni07/DSA-Problems/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Manassoni07/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
