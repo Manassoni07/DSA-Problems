@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/Manassoni07/DSA-Problems/tree/master/3731-find-missing-elements) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Manassoni07/DSA-Problems/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Manassoni07/DSA-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Manassoni07/DSA-Problems/tree/master/3731-find-missing-elements) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Manassoni07/DSA-Problems/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3945-digit-frequency-score](https://github.com/Manassoni07/DSA-Problems/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Manassoni07/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manassoni07/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Manassoni07/DSA-Problems/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Manassoni07/DSA-Problems/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3945-digit-frequency-score](https://github.com/Manassoni07/DSA-Problems/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manassoni07/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Manassoni07/DSA-Problems/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Matrix
 |  |
 | ------- |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Manassoni07/DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Manassoni07/DSA-Problems/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Counting Sort
 |  |
 | ------- |
