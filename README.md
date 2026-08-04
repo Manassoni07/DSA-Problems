@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/Manassoni07/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Manassoni07/DSA-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Manassoni07/DSA-Problems/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Manassoni07/DSA-Problems/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manassoni07/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Manassoni07/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
