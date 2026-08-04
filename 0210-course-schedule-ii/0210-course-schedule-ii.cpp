@@ -7,13 +7,7 @@ class Solution {
         queue<int> q;
         int count = 0;
 
-        for (int u = 0; u < n; u++) {
-            for (int& v : adj[u]) {
-                indegree[v]++;
-            }
-        }
-
-        // now we fill o degree ele
+        // now we fill 0 degree ele
 
         for (int i = 0; i < n; i++) {
             if (indegree[i] == 0) {
@@ -58,6 +52,7 @@ public:
             int b = vec[1];
 
             adj[b].push_back(a);
+            indegree[a]++;
         }
 
         return topoSortCheck(numCourses, adj, indegree);
