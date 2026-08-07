@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manassoni07/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Manassoni07/DSA-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3931-check-adjacent-digit-differences](https://github.com/Manassoni07/DSA-Problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manassoni07/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Manassoni07/DSA-Problems/tree/master/0093-restore-ip-addresses) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manassoni07/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Manassoni07/DSA-Problems/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Matrix
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Manassoni07/DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Manassoni07/DSA-Problems/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Counting Sort
 |  |
