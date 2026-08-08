@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Manassoni07/DSA-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Manassoni07/DSA-Problems/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Manassoni07/DSA-Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Manassoni07/DSA-Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manassoni07/DSA-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Manassoni07/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Manassoni07/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Manassoni07/DSA-Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Manassoni07/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Manassoni07/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Manassoni07/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Manassoni07/DSA-Problems/tree/master/0785-is-graph-bipartite) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Manassoni07/DSA-Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manassoni07/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manassoni07/DSA-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Manassoni07/DSA-Problems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Manassoni07/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Manassoni07/DSA-Problems/tree/master/0785-is-graph-bipartite) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Manassoni07/DSA-Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Manassoni07/DSA-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manassoni07/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Manassoni07/DSA-Problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -372,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Manassoni07/DSA-Problems/tree/master/0785-is-graph-bipartite) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Manassoni07/DSA-Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
