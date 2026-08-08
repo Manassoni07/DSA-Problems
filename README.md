@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Manassoni07/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Manassoni07/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Manassoni07/DSA-Problems/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Manassoni07/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Manassoni07/DSA-Problems/tree/master/0881-boats-to-save-people) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Manassoni07/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Manassoni07/DSA-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Manassoni07/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3931-check-adjacent-digit-differences](https://github.com/Manassoni07/DSA-Problems/tree/master/3931-check-adjacent-digit-differences) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Manassoni07/DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Manassoni07/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Manassoni07/DSA-Problems/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Counting Sort
