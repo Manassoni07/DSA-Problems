@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Manassoni07/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Manassoni07/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Manassoni07/DSA-Problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Manassoni07/DSA-Problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Manassoni07/DSA-Problems/tree/master/0342-power-of-four) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manassoni07/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Manassoni07/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Manassoni07/DSA-Problems/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
