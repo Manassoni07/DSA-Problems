@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manassoni07/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0743-network-delay-time](https://github.com/Manassoni07/DSA-Problems/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Manassoni07/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0743-network-delay-time](https://github.com/Manassoni07/DSA-Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Manassoni07/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manassoni07/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manassoni07/DSA-Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Manassoni07/DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Manassoni07/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Manassoni07/DSA-Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Manassoni07/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Manassoni07/DSA-Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Manassoni07/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Manassoni07/DSA-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Manassoni07/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Manassoni07/DSA-Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Manassoni07/DSA-Problems/tree/master/0785-is-graph-bipartite) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Manassoni07/DSA-Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Manassoni07/DSA-Problems/tree/master/0990-satisfiability-of-equality-equations) |
@@ -380,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Manassoni07/DSA-Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Manassoni07/DSA-Problems/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Manassoni07/DSA-Problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
