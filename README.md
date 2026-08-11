@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Manassoni07/DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Manassoni07/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/Manassoni07/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Manassoni07/DSA-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Manassoni07/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0090-subsets-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manassoni07/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manassoni07/DSA-Problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Manassoni07/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Manassoni07/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Manassoni07/DSA-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1260-shift-2d-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
