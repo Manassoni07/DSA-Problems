@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Manassoni07/DSA-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Manassoni07/DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manassoni07/DSA-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manassoni07/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Manassoni07/DSA-Problems/tree/master/0990-satisfiability-of-equality-equations) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Manassoni07/DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Manassoni07/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -455,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Manassoni07/DSA-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Manassoni07/DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Manassoni07/DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
