@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Manassoni07/DSA-Problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/Manassoni07/DSA-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Manassoni07/DSA-Problems/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Manassoni07/DSA-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Manassoni07/DSA-Problems/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Manassoni07/DSA-Problems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Manassoni07/DSA-Problems/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3310-remove-methods-from-project](https://github.com/Manassoni07/DSA-Problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Manassoni07/DSA-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Manassoni07/DSA-Problems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Manassoni07/DSA-Problems/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3310-remove-methods-from-project](https://github.com/Manassoni07/DSA-Problems/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Manassoni07/DSA-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Manassoni07/DSA-Problems/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Manassoni07/DSA-Problems/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Manassoni07/DSA-Problems/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3310-remove-methods-from-project](https://github.com/Manassoni07/DSA-Problems/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Manassoni07/DSA-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
