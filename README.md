@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Manassoni07/DSA-Problems/tree/master/1765-map-of-highest-peak) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/Manassoni07/DSA-Problems/tree/master/2029-stone-game-ix) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Manassoni07/DSA-Problems/tree/master/2097-valid-arrangement-of-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manassoni07/DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manassoni07/DSA-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Manassoni07/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Manassoni07/DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Manassoni07/DSA-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Manassoni07/DSA-Problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Manassoni07/DSA-Problems/tree/master/0881-boats-to-save-people) |
+| [2029-stone-game-ix](https://github.com/Manassoni07/DSA-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Manassoni07/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Manassoni07/DSA-Problems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Breadth-First Search
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Manassoni07/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Manassoni07/DSA-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Manassoni07/DSA-Problems/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
 | ------- |
@@ -444,15 +449,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Manassoni07/DSA-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Manassoni07/DSA-Problems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Manassoni07/DSA-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Manassoni07/DSA-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Manassoni07/DSA-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Manassoni07/DSA-Problems/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
