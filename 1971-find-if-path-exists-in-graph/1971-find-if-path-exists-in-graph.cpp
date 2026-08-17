@@ -1,29 +1,41 @@
 class Solution {
-public:
-    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-       
-       // here we build adja list
-       
-        vector<vector<int>> g(n);
-        for (auto &e : edges) {
-            g[e[0]].push_back(e[1]);
-            g[e[1]].push_back(e[0]);
-        }
+    void DFS(unordered_map<int,vector<int>> &adj, vector<int>& visited, int s) {
+        if (visited[s] == true)
+            return;
 
-        vector<int> vis(n, 0);
-        return dfs(source, destination, g, vis);
-    }
+        visited[s] = true;
 
-private:
-    bool dfs(int u, int dest, vector<vector<int>>& g, vector<int>& vis) {
-        if (u == dest) return true;
-        vis[u] = 1;
-
-        for (int child : g[u]) {
-            if (!vis[child]) {
-                if (dfs(child, dest, g, vis)) return true;
+        for (int& v : adj[s]) {
+            if (!visited[v]) {
+                DFS(adj, visited, v);
             }
         }
-        return false;
+    }
+
+public:
+    bool validPath(int n, vector<vector<int>>& edges, int source,
+                   int destination) {
+        // int n = edges.size();
+
+        unordered_map<int, vector<int>> adj;
+
+        for (auto& edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+        }
+
+        // dfs from source
+
+        vector<int> visited(n, false);
+
+        DFS(adj, visited, source);
+
+        if (!visited[destination])
+            return false;
+
+        return true;
     }
 };
