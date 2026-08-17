@@ -1,32 +1,30 @@
 class Solution {
-public:
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) 
-    {
+
+private:
+    void dfs(int row, int col, vector<vector<int>> &ans, vector<vector<int>> &image, int delRow[], int delCol[], int iniColor, int newColor) {
+        ans[row][col] = newColor;
         int n = image.size();
         int m = image[0].size();
-        int initial = image[sr][sc];
-        if(initial==color) return image;
-        vector<int> row = {1,-1,0,0};
-        vector<int> col = {0,0,-1,1};
-        queue<pair<int,int>>q;
-        q.push({sr,sc});
-        while(!q.empty())
+        for(int i = 0; i<4; i++)
         {
-            int i = q.front().first;
-            int j = q.front().second;
-            q.pop();
-            image[i][j] = color;
-            for(int k=0;k<4;k++)
+            int nrow = row + delRow[i];
+            int ncol = col + delCol[i];
+            if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && image[nrow][ncol] == iniColor && ans[nrow][ncol]!=newColor)
             {
-                int r=i+row[k];
-                int c=j+col[k];
-                if(r>=0 && r<n && c>=0 && c<m && image[r][c]==initial)
-                {
-                    q.push({r,c});
-                    image[r][c]=color;
-                }
+                dfs(nrow, ncol, ans, image, delRow, delCol, iniColor,newColor);
             }
         }
-        return image;
+
+    }
+public:
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int newColor)
+    {
+        int iniColor = image[sr][sc];
+        if(iniColor == newColor) return image;
+        vector<vector<int>> ans = image;
+        int delRow[] = {-1, 0, +1, 0};
+        int delCol[] = {0, +1, 0, -1};
+        dfs(sr, sc, ans, image, delRow, delCol, iniColor, newColor);
+        return ans;
     }
 };
