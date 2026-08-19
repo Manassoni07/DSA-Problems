@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Manassoni07/DSA-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Manassoni07/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manassoni07/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Manassoni07/DSA-Problems/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/Manassoni07/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/Manassoni07/DSA-Problems/tree/master/0455-assign-cookies) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Manassoni07/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manassoni07/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Manassoni07/DSA-Problems/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Manassoni07/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Manassoni07/DSA-Problems/tree/master/0509-fibonacci-number) |
