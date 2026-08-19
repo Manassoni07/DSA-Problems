@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Manassoni07/DSA-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Manassoni07/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Manassoni07/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manassoni07/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Manassoni07/DSA-Problems/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1386-cinema-seat-allocation](https://github.com/Manassoni07/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manassoni07/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manassoni07/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Manassoni07/DSA-Problems/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Manassoni07/DSA-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Manassoni07/DSA-Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/Manassoni07/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manassoni07/DSA-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Manassoni07/DSA-Problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Manassoni07/DSA-Problems/tree/master/0881-boats-to-save-people) |
+| [1386-cinema-seat-allocation](https://github.com/Manassoni07/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Manassoni07/DSA-Problems/tree/master/2029-stone-game-ix) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Manassoni07/DSA-Problems/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
