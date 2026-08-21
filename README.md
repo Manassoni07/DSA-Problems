@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manassoni07/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manassoni07/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manassoni07/DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manassoni07/DSA-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Manassoni07/DSA-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manassoni07/DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Manassoni07/DSA-Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/Manassoni07/DSA-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Manassoni07/DSA-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manassoni07/DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manassoni07/DSA-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Manassoni07/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Manassoni07/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Manassoni07/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manassoni07/DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Linked List
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manassoni07/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manassoni07/DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manassoni07/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Manassoni07/DSA-Problems/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
@@ -534,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2097-valid-arrangement-of-pairs](https://github.com/Manassoni07/DSA-Problems/tree/master/2097-valid-arrangement-of-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Manassoni07/DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
