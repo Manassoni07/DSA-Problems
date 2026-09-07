@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Manassoni07/DSA-Problems/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0877-stone-game](https://github.com/Manassoni07/DSA-Problems/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Manassoni07/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Manassoni07/DSA-Problems/tree/master/1510-stone-game-iv) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Manassoni07/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/Manassoni07/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Manassoni07/DSA-Problems/tree/master/0990-satisfiability-of-equality-equations) |
 | [1927-sum-game](https://github.com/Manassoni07/DSA-Problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manassoni07/DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
