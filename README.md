@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manassoni07/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3669-balanced-k-factor-decomposition](https://github.com/Manassoni07/DSA-Problems/tree/master/3669-balanced-k-factor-decomposition) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/Manassoni07/DSA-Problems/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
+| [3870-count-commas-in-range](https://github.com/Manassoni07/DSA-Problems/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Manassoni07/DSA-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Manassoni07/DSA-Problems/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3945-digit-frequency-score](https://github.com/Manassoni07/DSA-Problems/tree/master/3945-digit-frequency-score) |
